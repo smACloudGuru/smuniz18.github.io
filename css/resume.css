@@ -51,6 +51,7 @@ h2 {
 .list-icons {
   font-size: 3rem;
 }
+
 .list-icons .list-inline-item i:hover {
   color: #bd5d38;
 }
@@ -136,5 +137,6 @@ a {
 a:hover, a:focus, a:active {
   color: #824027;
 }
+
 
 /*# sourceMappingURL=resume.css.map */
